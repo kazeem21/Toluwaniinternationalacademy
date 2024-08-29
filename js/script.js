@@ -1,3 +1,10 @@
+/**
+ * Web of Science: https://www.webofscience.com/wos/author/record/JEZ-3981-2023
+ * ORCID: https://orcid.org/0009-0009-8911-5763
+ * FACEBOOK: https://www.facebook.com/folaiyaadekunle/
+ * GITHUB: https://github.com/kazeem21/
+ */
+
 (function ($) {
 	'use strict';
 
